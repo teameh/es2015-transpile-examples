@@ -5,7 +5,7 @@
     npm i
 ```
 
-# Usage
+## Usage
 
 ```
     npm start
@@ -13,7 +13,7 @@
 
 Refresh page + open console to see output
 
-# Development
+## Development
 
 First shell
 
