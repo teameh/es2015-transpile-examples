@@ -2,13 +2,13 @@
 
 ## Installation
 ```
-    npm i
+npm i
 ```
 
 ## Usage
 
 ```
-    npm start
+npm start
 ```
 
 Refresh page + open console to see output
@@ -18,11 +18,11 @@ Refresh page + open console to see output
 First shell
 
 ```
-    npm run babel
+npm run babel
 ```
 
 Second shell
 
 ```
-    npm run webpack
+npm run webpack
 ```
